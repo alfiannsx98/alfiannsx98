@@ -89,7 +89,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alfiannsx98&show_icons=true&hide_border=true" />
+  <img align="left" alt="alfiannsx98's GitHub Stats" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfiannsx98)](https://github.com/alfiannsx98/github-readme-stats)
+" />
 
 </details>
 
