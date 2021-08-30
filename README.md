@@ -86,12 +86,7 @@
 
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfiannsx98)](https://github.com/alfiannsx98/github-readme-stats)
-
-</details>
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
