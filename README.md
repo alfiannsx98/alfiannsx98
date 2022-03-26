@@ -3,7 +3,7 @@
 ## I'm a newbie developer and i love cooking !!
 
 - 🌱 I’m currently learning everything that i love 🤣
-- 🥅 2021 Goals: Learn and keep learning
+- 🥅 2022 Goals: Learn and keep learning
 - 🎶 Fun fact: I love to listening music and cooking
 
 ### Connect with me:
