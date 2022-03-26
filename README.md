@@ -9,7 +9,6 @@
 ### Connect with me:
 
 [<img align="left" alt="alfiannsx98 | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/800px-YouTube_full-color_icon_%282017%29.svg.png" />][youtube]
-[<img align="left" alt="alfiannsx98 | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 [<img align="left" alt="alfiannsx98 | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />][instagram]
 <br />
 
