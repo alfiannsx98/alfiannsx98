@@ -18,7 +18,6 @@
 
 [youtube]: https://www.youtube.com/channel/UCRHnFL0LmisT7NkEh9vfGPw
 [instagram]: https://instagram.com/curlygeeks
-[linkedin]: https://www.linkedin.com/in/alfiantul-rochmatul-417065109/
 
 ### Languages and Tools:
 
